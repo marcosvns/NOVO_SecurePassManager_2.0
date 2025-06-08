@@ -1,4 +1,4 @@
-# 🔐 SecurePassManager
+# 🔐 Novo SecurePassManager
 
 > Um gerenciador de senhas seguro feito em **Java puro**, com **criptografia AES**, **autenticação 2FA**, **geração de senhas fortes** e **verificação contra vazamentos** — tudo **sem banco de dados**.
 
@@ -69,7 +69,6 @@ SecurePassManager/
 
 -O código é 100% Java [sem frameworks web ou banco de dados]
 
----
 
 ## 📝 Licença
 
