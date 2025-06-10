@@ -29,6 +29,7 @@
 
 - Java 17+
 - Maven 3.6+
+- JDK 23
 
 ### 📦 Compilação
 
